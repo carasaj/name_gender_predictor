@@ -8,7 +8,7 @@ This logistic regression model will predict if a name is male or female. The inp
 
 The script is written in Python 3.7 using Jupyter Lab, and exists as a Python Notebook file (.ipynb). The datasheet is in a CSV (.csv) format.
 
-The user will need to install and/or import the following:
+The user will need to install and/or import the following libraries:
 
 * [Python3](https://www.python.org/downloads/) - This script is written in Python3, which the user will need installed.
 * [Anaconda](https://docs.continuum.io/anaconda/) - A package manager for installing pandas and Jupyter Lab. Optional but efficient.
