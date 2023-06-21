@@ -28,7 +28,7 @@ The user will need to have [Python3](https://www.python.org/downloads/) download
 
 Anaconda Navigator can be used to easily install and/or access [Jupyter Lab - Anaconda](https://anaconda.org/anaconda/jupyter) and [Pandas - Anaconda](https://docs.anaconda.com/navigator/tutorials/pandas/). They should be accessable immediately after installing Anaconda; if not, follow the previous links. If you are not using Anaconda and prefer manual installs, use the Manual Install links provided in the previous section and follow the steps listed in the documentation.
 
-If using Miniconda instead of Anaconda, the user will need to set up their virtual environment first. Use this command in a terminal window:
+If using Miniconda instead of Anaconda, the user will need to set up their virtual environment first. Use this command in the terminal:
 
 ```
     conda create -n name_of_my_env python
